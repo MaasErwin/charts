@@ -1,1 +1,1 @@
-# charts
+# Skeleton project for Swagger
